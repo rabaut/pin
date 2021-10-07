@@ -1,0 +1,9 @@
+{
+  "name": "pin",
+  "version": "1.0.0",
+  "description": "Pin dependencies to their installed version",
+  "main": "index.ts",
+  "repository": "https://github.com/rabaut/pin",
+  "author": "rabaut",
+  "license": "MIT"
+}
