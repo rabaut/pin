@@ -1,2 +1,2 @@
 # pin
-Pin depenencies to their installed version
+Pin dependencies to their installed version
